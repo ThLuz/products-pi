@@ -28,7 +28,6 @@ API REST desenvolvida em **Laravel** para consumir uma API externa de produtos, 
 * Ordenação
 * Estatísticas
 * Soft Delete
-* Registro de logs de alteração
 * Controle de integridade de dados
 
 ---
