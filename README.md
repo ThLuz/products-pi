@@ -76,7 +76,7 @@ app
 ### 1 - Clonar repositório
 
 ```
-git clone https://github.com/ThLuz/products-api
+git clone https://github.com/ThLuz/ProductsAPI
 ```
 
 Entrar na pasta do projeto:
